@@ -1,0 +1,15 @@
+{
+  "name": "kandeke-backend",
+  "version": "1.0.0",
+  "description": "Backend for Ka Ndeke - Zambezi Airways Aviator Game with MTN MoMo integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.7",
+    "dotenv": "^16.0.3",
+    "cors": "^2.8.5"
+  }
+}
